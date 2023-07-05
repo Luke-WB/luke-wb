@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Luca Scomazzon</h1>
+<h1 align="center">Hey 👋, sono Luca Scomazzon!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">STATISTICHE GITHUB</h3>
+<h3 align="left">📊 - STATISTICHE GITHUB</h3>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">TECNOLOGIE</h3>
+<h3 align="left">👨‍💻 - TECNOLOGIE</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">SKILL</h3>
+<h3 align="left">💻 - SKILL</h3>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="left">I MIEI SOCIAL</h3>
+<h3 align="left">📱 - I MIEI SOCIAL</h3>
 
 ###
 
@@ -80,16 +80,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Luke-WB/Luke-WB/output/snake.svg" alt="Snake animation" />
 
 ###
 
