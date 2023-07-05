@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍 Torino, Piemonte<br>🎓 Junior Web Devloper Full-Stack<br>📚 EF Education First, presso Miami, Florida, Stati Uniti d'America<br>⚙ Gestore Server Discord</p>
+<h4 align="left">📍 Torino, Piemonte<br>🎓 Junior Web Devloper Full-Stack<br>📚 EF Education First, presso Miami, Florida, Stati Uniti d'America<br>⚙ Gestore Server Discord</p>
 
 ###
 
