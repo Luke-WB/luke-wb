@@ -11,12 +11,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-Wb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Luke-Wb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-Wb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Luke-Wb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
-![Snake animation](https://github.com/Luke-WB/luke-wb/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/Luke-Wb/Luke-Wb/output/snake.svg" alt="Snake animation" />
 
 ###
 
