@@ -88,3 +88,7 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/Luke-WB/luke-wb/blob/output/github-contribution-grid-snake.svg)
+
+###
