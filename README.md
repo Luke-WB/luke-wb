@@ -16,6 +16,9 @@
 </div>
 
 ###
+![Snake animation](https://github.com/Luke-WB/luke-wb/blob/output/github-contribution-grid-snake.svg)
+
+###
 
 <h3 align="left">👨‍💻 - TECNOLOGIE</h3>
 
@@ -86,9 +89,5 @@
 <div align="center">
   <img height="200" src="https://export-download.canva.com/ChTW4/DAFlWGChTW4/9/0/0001-2538173951553439172.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230705T085436Z&X-Amz-Expires=12203&X-Amz-Signature=64cd75853c5dd2bab13b9b4f829b1a8f5550274ad8789504b2023baa44774569&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Banner%2520profilo%2520-%2520Linkedin.png&response-expires=Wed%2C%2005%20Jul%202023%2012%3A17%3A59%20GMT"  />
 </div>
-
-###
-
-![Snake animation](https://github.com/Luke-WB/luke-wb/blob/output/github-contribution-grid-snake.svg)
 
 ###
