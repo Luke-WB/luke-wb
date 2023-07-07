@@ -89,6 +89,6 @@
 
 ###
 
-![Snake animation](https://github.com/Luke-WB/Luke-WB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Luke-WB/luke-wb/blob/output/github-contribution-grid-snake.svg)
 
 ###
