@@ -11,13 +11,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-Wb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Luke-Wb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luke-WB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-WB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-![Snake animation](https://github.com/Luke-WB/luke-wb/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Luke-WB/Luke-WB/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -69,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
@@ -81,8 +82,9 @@
   <a href="https://www.linkedin.com/in/luca-scomazzon-618b9b267/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/luca-scomazzon-618b9b267/](https://www.instagram.com/scom.luca/" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
