@@ -91,9 +91,9 @@
 
 ###
 
-<picture>
-  <img src="https://raw.githubusercontent.com/luke-wb/luke-wb/output/pacman-contribution-graph.svg" />
-</picture>
+<p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luke-wb/luke-wb/output/pacman-contribution-graph-dark.svg">
+</p>
 
 ###
 
