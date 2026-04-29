@@ -2,19 +2,27 @@
 
 ###
 
-<h2 align="left">🧠 - About</h2>
+<h2 align="left">🧠 About</h2>
 
 ###
 
-<p align="left">💻 Full Stack Web Developer<br>⚙️ Backend-oriented (Java, Spring Boot, Spring Security)<br>🗄️ PostgreSQL, API REST e progettazione backend<br>🔗 Frontend in React e sviluppo di applicazioni web complete</p>
+<p align="left">
+  💻 Full Stack Web Developer
+  <br>
+  ⚙️ Backend-oriented (Java, Spring Boot, Spring Security)
+  <br>
+  🗄️ PostgreSQL, API REST e progettazione backend
+  <br>
+  🔗 Frontend in React e sviluppo di applicazioni web complete
+</p>
 
 ###
 
-<h2 align="left">⚙️ - Tech Stack</h2>
+<h2 align="left">⚙️ Tech Stack</h2>
 
 ###
 
-<h4 align="left">🌐 - Frontend</h4>
+<h4 align="left">🌐 Frontend</h4>
 
 ###
 
@@ -38,7 +46,7 @@
 
 ###
 
-<h4 align="left">🔧 - Backend</h4>
+<h4 align="left">🔧 Backend</h4>
 
 ###
 
@@ -54,7 +62,7 @@
 
 ###
 
-<h4 align="left">🧪 - Tools</h4>
+<h4 align="left">🧪 Tools</h4>
 
 ###
 
@@ -72,15 +80,25 @@
 
 ###
 
-<h2 align="left">🚀 - Progetti</h2>
+<h2 align="left">🚀 Progetti</h2>
 
 ###
 
-<p align="left">🌐 Frontend con React e Redux per la gestione dello stato<br>🎨 Styling con Sass e Bootstrap per interfacce moderne e responsive<br>🔧 Backend con Java e Spring Boot per logica applicativa e API REST<br>🔐 Sicurezza con autenticazione JWT<br>🗄️ Database PostgreSQL per la persistenza dei dati</p>
+<p align="left">
+  🌐 Frontend con React e Redux per la gestione dello stato
+  <br>
+  🎨 Styling con Sass e Bootstrap per interfacce moderne e responsive
+  <br>
+  🔧 Backend con Java e Spring Boot per logica applicativa e API REST
+  <br>
+  🔐 Sicurezza con autenticazione JWT
+  <br>
+  🗄️ Database PostgreSQL per la persistenza dei dati
+</p>
 
 ###
 
-<h2 align="left">📊 - GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
