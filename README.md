@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, sono Luca</h1>
 
-<hr style="border: 1px solid #444;">
+###
 
 <h2 align="left">🧠 - About</h2>
 
