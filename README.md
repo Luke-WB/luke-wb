@@ -1,35 +1,47 @@
 <h1 align="center">Hey 👋, sono Luca</h1>
 
 <p align="center">
-💻 Full Stack Developer (backend-oriented)<br>
-⚙️ Java • Spring Boot • React • PostgreSQL<br>
-🚀 Sviluppo applicazioni web, API REST e sistemi backend
+💻 Full Stack Web Developer <br>
+⚙️ Backend-oriented (Java, Spring Boot, Spring Security) <br>
+🎨 React • Frontend development • UI <br>
+🚀 Costruisco applicazioni web complete, dalle API al frontend
 </p>
 
 ---
 
-## 🧠 About Me
-- Sviluppo applicazioni web full stack con focus sul backend  
-- Progetto e sviluppo API REST con Spring Boot  
-- Interesse per architetture software, automazione e sistemi scalabili  
+## 🧠 About
+
+Sono uno sviluppatore full stack con una forte preferenza per il backend,  
+dove mi occupo di logica applicativa, sicurezza e progettazione di API.
+
+Allo stesso tempo sviluppo anche frontend moderni con React,  
+realizzando applicazioni complete end-to-end.
 
 ---
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+### 🔧 Backend
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</div>
+
+### 🎨 Frontend
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
-- 🔹 Backend API con Spring Boot + PostgreSQL  
-- 🔹 Applicazione full stack React + Spring Boot  
-- 🔹 Sistemi con autenticazione (Spring Security)
+## 🚀 Projects
+
+🔹 Applicazioni full stack (React + Spring Boot)  
+🔹 API REST con autenticazione e sicurezza  
+🔹 Progetti frontend con focus UI/UX  
 
 ---
 
@@ -37,14 +49,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luke-WB&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-WB&layout=compact&theme=dracula"/>
 </div>
 
 ---
 
-## 📌 Links
+## 📌 Contatti
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luca-scomazzon-618b9b267/">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/in/luca-scomazzon-618b9b267/">LinkedIn</a>
 </div>
