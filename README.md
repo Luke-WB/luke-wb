@@ -1,4 +1,4 @@
-# Hey 👋, sono Luca
+## Hey 👋, sono Luca
 
 ---
 
