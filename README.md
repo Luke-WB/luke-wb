@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">🌐 Frontend</h4>
+<h3 align="left">🌐 Frontend</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h4 align="left">🔧 Backend</h4>
+<h3 align="left">🔧 Backend</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h4 align="left">🧪 Tools</h4>
+<h3 align="left">🧪 Tools</h3>
 
 ###
 
