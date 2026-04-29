@@ -1,6 +1,6 @@
-## Hey 👋, sono Luca
+<h1 align="center">Hey 👋, sono Luca</h1>
 
----
+###
 
 <h2 align="left">🧠 - About</h2>
 
